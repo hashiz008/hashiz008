@@ -4,4 +4,5 @@
 </p>
 
 ![](https://raw.githubusercontent.com/hashiz008/hashiz008/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/hashiz008/hashiz008/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=hashiz008&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
