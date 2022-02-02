@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_SECRETS }}
         with:
-          USERNAME: ${{ github.hashiz008 }}
+          USERNAME: ${{ github.repository_owner }}
